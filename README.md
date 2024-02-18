@@ -1,4 +1,3 @@
-![Screenshot 2024-02-18 204647](https://github.com/Nikhil-Sharma-CS/XindusAssignment/assets/72157075/bec72a0e-63c1-4984-b532-5fea1f85f57b)
 # Xindus-Assignment
 
 Hi! This is a Company Assignment for Xindus Trade.
