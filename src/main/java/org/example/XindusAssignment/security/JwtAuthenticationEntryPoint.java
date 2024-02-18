@@ -11,6 +11,8 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 @Component
+
+// This checks whether the user is authenticated or not before accessing APIs
 public class JwtAuthenticationEntryPoint implements AuthenticationEntryPoint {
     @Override
     public void commence(HttpServletRequest request, HttpServletResponse response, AuthenticationException authException) throws IOException, ServletException {

@@ -1,7 +1,7 @@
 package org.example.XindusAssignment.controller;
 
-import org.example.XindusAssignment.model.JwtRequest;
-import org.example.XindusAssignment.model.JwtResponse;
+import org.example.XindusAssignment.model.dto.JwtRequest;
+import org.example.XindusAssignment.model.dto.JwtResponse;
 import org.example.XindusAssignment.security.JwtHelper;
 import org.example.XindusAssignment.service.CustomUserDetailService;
 import org.slf4j.Logger;
@@ -31,7 +31,7 @@ public class AuthController {
 
     private final Logger logger = LoggerFactory.getLogger(AuthController.class);
 
-
+    //This class contains methods for login purpose, these take care for providing tokens to user after checking certain authentication practices.
     @PostMapping("/login")
     public ResponseEntity<JwtResponse> login(@RequestBody JwtRequest request) {
 

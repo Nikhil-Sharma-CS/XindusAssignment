@@ -10,6 +10,8 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 @Configuration
 public class AppConfig {
 
+
+    //This class declares method for password encoding and authentication management
     @Bean
     public PasswordEncoder passwordEncoder() {
         return new BCryptPasswordEncoder();

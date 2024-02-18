@@ -13,6 +13,7 @@ import java.util.List;
 @RequestMapping("/api")
 public class HomeController {
 
+    //This is our controller class that contains various APIs for wishlists management
     @Autowired
     ProductService productService;
 
@@ -31,6 +32,8 @@ public class HomeController {
         return productService.addItem(product);
     }
 
+
+    //This api endpoint is to add user
     @PostMapping("/addUser")
     public String addUser(@RequestBody User user)
     {

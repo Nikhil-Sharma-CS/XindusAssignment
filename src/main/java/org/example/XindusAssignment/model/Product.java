@@ -9,6 +9,8 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
+
+//This is the product class which will contain detail about product along with what user it is related to
 public class Product {
 
     @Id

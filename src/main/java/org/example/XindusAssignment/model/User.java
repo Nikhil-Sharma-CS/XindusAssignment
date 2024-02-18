@@ -16,6 +16,8 @@ import java.util.Collection;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+
+//This is user model that contains user details with implementation of UserDetails interface for security purposes
 public class User implements UserDetails {
 
     @Id

@@ -1,4 +1,4 @@
-package org.example.XindusAssignment.model;
+package org.example.XindusAssignment.model.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

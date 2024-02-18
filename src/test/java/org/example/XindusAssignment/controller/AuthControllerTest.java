@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.when;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.example.XindusAssignment.model.JwtRequest;
+import org.example.XindusAssignment.model.dto.JwtRequest;
 import org.example.XindusAssignment.model.User;
 import org.example.XindusAssignment.security.JwtHelper;
 import org.example.XindusAssignment.service.CustomUserDetailService;
