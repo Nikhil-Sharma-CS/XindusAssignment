@@ -1,4 +1,4 @@
-
+![Screenshot 2024-02-18 204647](https://github.com/Nikhil-Sharma-CS/XindusAssignment/assets/72157075/bec72a0e-63c1-4984-b532-5fea1f85f57b)
 # Xindus-Assignment
 
 Hi! This is a Company Assignment for Xindus Trade.
@@ -83,6 +83,16 @@ I'm a full stack developer apprentice at Geekster. I have knowledge of Java, OOP
 - So above were some details on how you can access program.
 
 - For unit testing the testing methods are provided in the test folder of the program so one can run them and check for results.
+- Here are some examples of unit testing methods
+
+  ![Screenshot 2024-02-18 204647](https://github.com/Nikhil-Sharma-CS/XindusAssignment/assets/72157075/d5915ae1-4115-44d6-a250-ce23cf03d2a8)
+
+  ![Screenshot 2024-02-18 204723](https://github.com/Nikhil-Sharma-CS/XindusAssignment/assets/72157075/a7e00003-98b3-4492-9d35-7c8cb1f3ce78)
+
+  ![Screenshot 2024-02-18 204758](https://github.com/Nikhil-Sharma-CS/XindusAssignment/assets/72157075/67d46f19-dbd2-4028-97e8-6ce14a110c59)
+
+
+
 
 ## Summary
 
